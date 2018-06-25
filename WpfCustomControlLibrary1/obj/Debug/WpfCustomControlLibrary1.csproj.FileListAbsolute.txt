@@ -1,0 +1,13 @@
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csprojAssemblyReference.cache
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.GenerateResource.cache
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+C:\dev\Source\Repo\WpfApp1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb
